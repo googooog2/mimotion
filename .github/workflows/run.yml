@@ -2,7 +2,7 @@ name: 刷步数
 
 on:
 # schedule:        # 原来的定时可以注释掉或直接删掉
-  #   - cron: '2 '42 * * *'
+  #   - cron: '19 '2 * * *'
   workflow_dispatch:
 
 jobs:
